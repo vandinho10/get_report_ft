@@ -1,0 +1,6 @@
+*.spec
+files/*
+dist/*
+build/*
+.tmp_rel/*
+__pycache__/*
